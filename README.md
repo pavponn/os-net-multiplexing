@@ -19,7 +19,7 @@ Run client:
 
   
 ## Test
-Tested manually on macOS Mojave 10.14.3 and Linux 4.12.
+Tested manually on Linux 4.12.
 
 ## Copyright
 Pavel Ponomarev, 2019 (pavponn@gmail.com)
